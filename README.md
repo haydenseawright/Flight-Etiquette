@@ -10,6 +10,6 @@ I chose to create this chart, because people pass time in different ways; while 
 
 ! [This is a data wrapper chart](Data-Wrapper.png)
 
-The chart below shows three choices to the question above: No, not rude at all; yes, somewhat rude; and yes, very rude. The significant majority of those sampled agreed that is was not rude to talk tp the person next yo you, more than a few words, on a flight.  Over 600 people answered that saying more than a few words was not rude at all, while under 200 people answered that is was very or somewhat rude. 
+
 
 
