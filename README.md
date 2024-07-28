@@ -13,4 +13,4 @@ Someone once told me the following quote:
 
 This will have a ~~strikethrough~~
 
-! [This is a data wrapper chart](
+! [This is a data wrapper chart](https://github.com/haydenseawright/Flight-Etiquette/blob/main/Mou6u-generally-speaking-is-it-rude-to-say-more-than-a-few-words-to-the-stranger-sitting-next-to-you-on-a-plane-.png)
