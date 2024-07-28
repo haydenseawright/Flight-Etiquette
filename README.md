@@ -12,3 +12,5 @@ Someone once told me the following quote:
 <ins>This will be underlined<ins/>
 
 This will have a ~~strikethrough~~
+
+! [This is a data wrapper chart](data-wrapper.png)
